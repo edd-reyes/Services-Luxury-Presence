@@ -1204,6 +1204,7 @@ p {
   color: #303030;
   background-color: #ffffff;
   transition: 0.4s;
+  text-decoration: underline;
 }
 
 @media (max-width: 1024px) {
