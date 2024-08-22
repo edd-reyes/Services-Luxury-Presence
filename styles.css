@@ -212,14 +212,10 @@ p {
 
 /* MARKETING PLAN */
 .marketing {
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
   padding: 64px 48px;
   padding-bottom: 128px;
-}
-
-.marketing_container {
-  width: 80%;
 }
 
 .marketing_desc {
@@ -399,7 +395,7 @@ p {
 
 /* DECOR GUIDANCE */
 .decor {
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
 
@@ -454,8 +450,8 @@ p {
   align-items: center;
   text-align: center;
   border-style: double;
-  height: 200px;
-  width: 320px;
+  /*   height: 200px;
+  width: 320px; */
   margin: 0;
   padding: 1rem;
 }
@@ -508,7 +504,7 @@ p {
 
 /* Intentional Layout */
 .layout {
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
 
@@ -616,7 +612,7 @@ p {
 
 /* SELLING PROCESS */
 .selling {
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
 
@@ -682,7 +678,7 @@ p {
 
 /* BUY PROCESS */
 .buying {
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
 
@@ -742,7 +738,7 @@ p {
 
 /* EXPERIENCE */
 .experience {
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
 
@@ -835,7 +831,7 @@ p {
 
 /* EXPERIENCE */
 .experience2 {
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
 
@@ -930,7 +926,7 @@ p {
 }
 /* COMTAB */
 .comtab {
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
 
@@ -1051,7 +1047,7 @@ p {
 /* PARTNERS */
 
 .partners {
-  width: 80%;
+  width: 100%;
   margin: auto;
   padding: 48px;
   padding-top: 128px;
@@ -1120,6 +1116,10 @@ p {
   margin: 2rem;
 }
 
+.luxury h2 {
+  margin-top: 128px;
+}
+
 .luxury_partners {
   display: flex;
   flex-wrap: wrap;
@@ -1150,7 +1150,7 @@ p {
 
 /* WORK WITH US */
 .work {
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
 .work_container {
